@@ -1,3 +1,3 @@
-# MLbinder
-https://mybinder.org/v2/gh/simonhallstroem/MLbinder.git/main
+# Binder
+https://mybinder.org/v2/gh/simonhallstroem/binder/master
 
